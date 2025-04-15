@@ -1,0 +1,24 @@
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    border-radius: 20px;
+}
+h3{
+    margin-bottom: 0px;
+}
+p{
+    margin-top: 10px;
+}
+.star{
+    display: flex;
+    position: relative;
+    bottom: 120px;
+    left: 180px;
+}
+.row{
+    position: relative;
+    bottom: 7px;
+}
